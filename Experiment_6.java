@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class MergeSort{
+public class Experiment_6{
 
 	public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
